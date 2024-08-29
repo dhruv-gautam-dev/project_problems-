@@ -1,7 +1,7 @@
-function desc (){
+function description (){
   return <p>
     this is a description.
   </p>
 }
 
-export default desc;
+export default description;

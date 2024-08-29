@@ -1,15 +1,18 @@
 import Subscribe from "./Subscribe";
+import Hello from "./Hello";
 import description from "./description";
+
+
 function App(){
   return <div>
+    
     <h1>
         I am learning react right now .
     </h1>
-    <h2>its great to learn react</h2>
-    {/* but description component is not working  */}
-    <description></description>
-    {/* my subscibe component is working  */}
-    <Subscribe></Subscribe>
+    <Hello></Hello>
+    <description></description>{/* but description component is not working  */}
+    
+    <Subscribe></Subscribe>{/* my subscibe component is working  */}
   </div>
   
 }
