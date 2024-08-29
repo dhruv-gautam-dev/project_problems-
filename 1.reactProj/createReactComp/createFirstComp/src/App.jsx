@@ -6,7 +6,9 @@ function App(){
         I am learning react right now .
     </h1>
     <h2>its great to learn react</h2>
+    {/* but description component is not working  */}
     <description></description>
+    {/* my subscibe component is working  */}
     <Subscribe></Subscribe>
   </div>
   
