@@ -1,7 +1,5 @@
-function description (){
-  return <p>
-    this is a description.
-  </p>
+function Description() {
+  return <p>this is a description.</p>;
 }
 
-export default description;
+export default Description;
